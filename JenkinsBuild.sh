@@ -1,2 +1,2 @@
-echo "Hello World"
+echo "Hello GitHub Test"
 echo "Success!"
